@@ -4,7 +4,7 @@ A full-featured AI Study Planner web app built as a single React JSX file using 
 
 ## Features
 
-### Core AI Features (Powered by Anthropic Claude)
+### Core AI Features 
 - **AI Study Plan Generator**: Generates structured day-by-day study plans based on topic.
 - **AI Flashcard Creator**: Extracts key concepts from text to create Q&A flashcards.
 - **AI Quiz Generator**: Creates multiple-choice quizzes on any topic.
@@ -76,5 +76,6 @@ npm (comes with Node.js)
 
 ## Note
 This application is designed as a single-file React component (`src/App.tsx`) for portability, while maintaining a modular internal structure.
+
 
 
