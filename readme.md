@@ -33,10 +33,33 @@ A full-featured AI Study Planner web app built as a single React JSX file using 
 - **AI**: Anthropic API (Claude Sonnet)
 
 ## Setup
-1. Clone the repository.
-2. Run `npm install`.
-3. Run `npm run dev` to start the development server.
-4. Run `npm run build` to build for production.
+Follow these steps to run the project locally:
+
+## Clone the repository
+
+git clone https://github.com/jeetmondal12/AI-Study-Planner
+
+## Navigate into the project directory
+
+cd AI-Study-Planner
+
+## Install dependencies
+
+npm install
+
+## Start the development server
+
+npm run dev
+
+## Build for production
+
+npm run build
+## ✅ Requirements
+
+Node.js (v18 or later recommended)
+
+npm (comes with Node.js)
 
 ## Note
 This application is designed as a single-file React component (`src/App.tsx`) for portability, while maintaining a modular internal structure.
+
