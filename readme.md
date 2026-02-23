@@ -32,6 +32,20 @@ A full-featured AI Study Planner web app built as a single React JSX file using 
 - **Date Handling**: date-fns
 - **AI**: Anthropic API (Claude Sonnet)
 
+## ScreenShots
+<img width="1373" height="758" alt="Image" src="https://github.com/user-attachments/assets/e6d0ed15-e7d9-47b1-99b2-8b98341856bb" />
+<img width="1370" height="753" alt="Image" src="https://github.com/user-attachments/assets/ff437fec-3faf-40ea-b17d-d52e8dedf865" />
+<img width="1361" height="753" alt="Image" src="https://github.com/user-attachments/assets/3be78c04-d2b1-4d6f-9092-fbae879f153d" />
+<img width="1368" height="755" alt="Image" src="https://github.com/user-attachments/assets/323a6228-5bab-4ef3-8870-3eb7eec0b38e" />
+<img width="1372" height="749" alt="Image" src="https://github.com/user-attachments/assets/23d9da30-d526-45e4-bfb9-10f97ea03905" />
+<img width="1371" height="746" alt="Image" src="https://github.com/user-attachments/assets/c0454490-b41e-4742-ae84-0477121f5c9a" />
+<img width="1365" height="749" alt="Image" src="https://github.com/user-attachments/assets/f869a47e-7a2a-44f0-9101-62f129a932cb" />
+<img width="1370" height="755" alt="Image" src="https://github.com/user-attachments/assets/6da8f09e-2117-4c21-acab-7f7ad0013234" />
+<img width="1363" height="759" alt="Image" src="https://github.com/user-attachments/assets/0f5a70d1-9315-4041-b412-4723d55a990a" />
+
+## Screen Record
+![Image](https://github.com/user-attachments/assets/74464d6e-b1d3-4bbe-be05-4a3ebea5a618)
+
 ## Setup
 Follow these steps to run the project locally:
 
@@ -62,4 +76,5 @@ npm (comes with Node.js)
 
 ## Note
 This application is designed as a single-file React component (`src/App.tsx`) for portability, while maintaining a modular internal structure.
+
 
